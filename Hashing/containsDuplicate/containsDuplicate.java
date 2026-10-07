@@ -1,5 +1,6 @@
 import java.util.HashSet;
 
+
 public class containsDuplicate {
 
     public static boolean containsDuplicate(int[] nums) {
