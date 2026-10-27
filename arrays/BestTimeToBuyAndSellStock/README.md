@@ -7,7 +7,6 @@ Given an array `prices` where `prices[i]` represents the price of a stock on day
 If no profit can be made, return `0`.
 
 ---
-
 ## 📝 Example 1
 
 ```text
